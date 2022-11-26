@@ -1,18 +1,56 @@
 ---
 layout: default
 ---
+## Short Bio
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am now a first-year Ph.D. student in the department of Information Engineering at the Chinese University of Hong Kong. I am fortunated to be advised by [Prof. Sze Yiu Chau](https://szeyiuchau.github.io/).
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Before coming to CUHK, I obtained my M.E. degree from Fudan University under supervisor [Prof. Zhe Zhou](https://www.y-droid.com/zhe/). I obtained my B.S. degree in Computer Science and Technology from Ocean University of China in June 2019.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+My research interests include system security and Side-Channel attacks on computer hardwares. I am a new-comer to both fields, and feel free to contact me via email.  : )
 
-# Header 1
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
+---------
+<br>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<!-- **[page 1](./pages/another-page.html)** \| [page 2](./pages/pages2.html) -->
+
+<!-- There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
+
+## Publications
+<br>
+
+
+### &nbsp;&nbsp;Userspace Bypass: Accelerating Syscall-intensive Applications.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zhe Zhou, **Yanxiang Bi**, Junpeng Wan, Yangfan Zhou and Zhou Li.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Accepted by 17th USENIX Symposium on Operating Systems Design and Implementation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(OSDI '23), July, 2023.*
+
+----
+
+### &nbsp;&nbsp;MeshUp: Stateless Cache Side-channel Attack on CPU Mesh.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Junpeng Wan, **Yanxiang Bi**, Zhe Zhou, Zhou Li<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*In Proceedings of the 43th IEEE Symposium on Security and Privacy (Oakland '22), May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022.*
+
+----
+
+### &nbsp;&nbsp;Boosting symbolic execution via constraint solving time prediction.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sicheng Luo, Hui Xu, **Yanxiang Bi**, Xin Wang, Yangfan Zhou<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*In Proceedings of the 30th ACM SIGSOFT International Symposium on Software Testing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Analysis (ISSTA ‘21), 2021.*
+
+----
+
+
+
+
+
+
+<!-- This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. -->
+
+<!-- 
 
 ## Header 2
 
@@ -121,3 +159,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
